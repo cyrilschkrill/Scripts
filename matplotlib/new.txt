@@ -1,0 +1,2 @@
+nnoremap <Leader>b :buffers<CR>:buffer<Space>
+
